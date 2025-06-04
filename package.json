@@ -5,7 +5,7 @@
 "scripts": {
   "dev": "cross-env PORT=8000 next dev --turbo",
   "build": "next build",
-  "vercel-build": "./build.sh",
+  "vercel-build": "./vercel-build.sh",
   "start": "next start",
   "lint": "next lint"
 },

@@ -2,10 +2,10 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-"scripts": { 
+"scripts": {
   "dev": "cross-env PORT=8000 next dev --turbo",
-  "build": "npm install --legacy-peer-deps && next build",
-  "vercel-build": "npm install --legacy-peer-deps && next build",
+  "build": "next build",
+  "vercel-build": "./build.sh",
   "start": "next start",
   "lint": "next lint"
 },

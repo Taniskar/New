@@ -2,12 +2,13 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "cross-env PORT=8000 next dev --turbo",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+"scripts": { 
+  "dev": "cross-env PORT=8000 next dev --turbo",
+  "build": "npm install --legacy-peer-deps && next build",
+  "vercel-build": "npm install --legacy-peer-deps && next build",
+  "start": "next start",
+  "lint": "next lint"
+},
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
     "@radix-ui/react-accordion": "^1.2.10",

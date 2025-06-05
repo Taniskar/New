@@ -1,11 +1,13 @@
 "use client";
 
 const skills = {
+  "Aveva OSI PI Suit":["PI Interface/Connector Configuration", "PI Data Archive Management","PI Asset Framework(AF) Setup, Templates, analysis and Hierarchy Design", "PI Vision for Real-Time Dashboards","PI Vision extensibility", "PI ML for Manual Data Entry Integration", "PI System Security", "Data Injection - UFL"],
   Languages: ["Python", "SQL", "Java", "C++", "JavaScript"],
   "ML/AI Tools": ["TensorFlow", "Scikit-learn", "Keras", "Pandas"],
   Visualization: ["Power BI", "Tableau", "Matplotlib", "Streamlit"],
-  Cloud: ["AWS", "GCP", "Spark", "Hadoop"],
+  Cloud: ["AWS", "GCP"],
   Databases: ["MySQL", "PostgreSQL", "MongoDB"],
+  Tools: ["Flask", "Streamlit", "Power BI", "Tableau", "Anaconda","OSI PI Software Suit"]
 };
 
 export default function Skills() {

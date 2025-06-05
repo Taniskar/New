@@ -1,4 +1,4 @@
-import tailwindcss from "@tailwindcss/postcss";
+import tailwindcss from "tailwindcss";
 import autoprefixer from "autoprefixer";
 
 const config = {
@@ -6,4 +6,3 @@ const config = {
 };
 
 export default config;
-

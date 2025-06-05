@@ -17,7 +17,7 @@ export default function Hero() {
       </p>
       <div className="flex space-x-6">
         <a
-          href="src\components\portfolio\Hiren_Patel_Resume.pdf"
+          href="https://github.com/Taniskar/New/raw/main/public/Hiren_Resume_Data_Science.pdf"
           download
           className="px-6 py-3 bg-teal-500 hover:bg-teal-600 rounded-md font-semibold transition"
         >

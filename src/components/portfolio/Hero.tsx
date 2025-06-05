@@ -17,7 +17,7 @@ export default function Hero() {
       </p>
       <div className="flex space-x-6">
         <a
-          href="D:\new\src\components\portfolio\Hiren_Patel_Resume.pdf"
+          href="src\components\portfolio\Hiren_Patel_Resume.pdf"
           download
           className="px-6 py-3 bg-teal-500 hover:bg-teal-600 rounded-md font-semibold transition"
         >

@@ -2,10 +2,14 @@
 
 const certifications = [
   "Meta: Data Analytics with SQL",
-  "Aveva: PI Infrastructure & Installation",
+  "Aveva - CSI AVEVA PI Infrastructure Specialist Exam",
+  "Aveva - CSI AVEVA PI Installation Specialist Exam",
+  "GFG - Complete Data Science and Machine Learning Program",
   "ISRO: Geoprocessing with Python",
   "KPMG: Data Analytics Virtual Internship",
   "Codebasics: Power BI",
+  "HackerRank - Python",
+  "HackerRank - Java"
 ];
 
 export default function Certifications() {

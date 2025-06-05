@@ -10,16 +10,16 @@ export default function About() {
         About Me
       </h2>
       <p className="mb-4">
-        3+ years of experience in Data Science, Business Analysis & Lecturing.
+        3+ years of experience in Data Science, Aveva PI Systems, Business Analysis & Lecturing.
       </p>
       <p className="mb-4">
-        Worked with enterprise clients like Petronet LNG, Uber, and GAIL.
+        Worked with enterprise clients like Petronet LNG, IOCL, Uber, and GAIL.
       </p>
       <p className="mb-4">
-        Strong in Machine Learning, Real-time Data Monitoring, Power BI, and AI Dashboards.
+        Strong in Aveva PI System, PI Server, Data Archive, PI System Explorer, PI Vision, Machine Learning, Real-time Data Monitoring, Power BI, and AI Dashboards.
       </p>
       <p className="mb-4">
-        Skilled in Python, SQL, AWS, TensorFlow, Power BI, Tableau, Streamlit, and more.
+        Skilled in Aveva PI Systems (Previously OSI PI) Python, SQL, AWS, TensorFlow, Power BI, Tableau, Streamlit, and more.
       </p>
     </section>
   );

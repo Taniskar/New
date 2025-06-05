@@ -19,7 +19,7 @@ export default function Contact() {
             hiren.patel728@gmail.com
           </a>
         </li>
-        <li>📞 +91 7405526263</li>
+        <li> +91 7405526263</li>
         <li>
           🔗{" "}
           <a

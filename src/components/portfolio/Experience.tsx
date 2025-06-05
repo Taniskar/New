@@ -3,7 +3,7 @@
 const experiences = [
   {
     company: "SSM Infotech",
-    role: "Business Analyst & Team Leader",
+    role: "Business Analyst & Technical Manager",
     period: "2023–Now",
   },
   {

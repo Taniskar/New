@@ -10,7 +10,7 @@ export default function Hero() {
         Hiren Patel
       </h1>
       <p className="text-xl md:text-2xl font-semibold mb-2">
-        Data Scientist | AI Developer | Technical Leader
+        Data Scientist | Business Analyst | Technical Manager
       </p>
       <p className="text-lg md:text-xl mb-8 max-w-xl">
         Transforming data into intelligent decisions.
